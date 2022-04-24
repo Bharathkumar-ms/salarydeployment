@@ -1,2 +1,1 @@
-# salarydeployment
-salary prediction
+# Heroku-Demo
